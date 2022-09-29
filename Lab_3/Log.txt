@@ -1,0 +1,7 @@
+The Power Cord is connected
+The USB is connected
+The colored Print is on
+The start button is pressed
+Something put on table
+Power button isn't plugged in
+The Power Cord is disconnected
